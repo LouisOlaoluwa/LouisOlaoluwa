@@ -5,9 +5,10 @@
 I build end-to-end data solutions, from collecting raw data and designing data pipelines to transforming datasets, creating insightful dashboards, and enabling data-driven decision making. My GitHub showcases projects in data engineering, analytics, automation, and continuous learning.
 
 ## 🎓 Certifications
-- [ALX Professional Foundations](https)
-- [ALX Data Analysis](https)
+
 - [ALX Data Engineering](https)
+- [ALX Data Analysis](https)
+- [ALX Professional Foundations](https)
 
 ## 🚀 What I Do
 
