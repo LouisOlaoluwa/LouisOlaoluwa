@@ -35,9 +35,9 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 
 ## 📂 Featured Projects
 
-- 📊 Data Analysis [Projects](http)
+- 📊 Data Analysis [Projects](https://github.com/LouisOlaoluwa/ACA-Marketplace-Premium-Analysis-2014-2016-)
 - ⚙️ ETL Pipelines [Projects](http)
-- 🗄️ SQL Challenges [Projects](http)
+- 🗄️ SQL Challenges [Projects](https://github.com/LouisOlaoluwa/ACA-Marketplace-Premium-Analysis-2014-2016-)
 - 📈 Dashboards [Projects](http)
 - 🤖 Automation Scripts [Projects](http)
 
