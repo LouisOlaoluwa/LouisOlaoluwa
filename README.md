@@ -8,7 +8,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 
 - [ALX Data Engineering](https)
 - [ALX Data Analysis](https://github.com/LouisOlaoluwa/Data-Analysis-Certificate)
-- [ALX Python Programming](https://github.com/LouisOlaoluwa/Professional-Foundation-Certificate)
+- [ALX Python Programming](https://github.com/LouisOlaoluwa/Professional-Foundation-Certificate.)
 - [ALX Professional Foundations](https)
 
 ## 🚀 What I Do
