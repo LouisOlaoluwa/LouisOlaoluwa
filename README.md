@@ -7,7 +7,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 ## 🎓 Certifications
 
 - [ALX Data Engineering](https)
-- [ALX Data Analysis](https)
+- [ALX Data Analysis](https://github.com/LouisOlaoluwa/Data-Analysis-Certificate
 - [ALX Professional Foundations](https)
 
 ## 🚀 What I Do
