@@ -10,7 +10,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 - [ALX Data Analysis](https://github.com/LouisOlaoluwa/Data-Analysis-Certificate)
 - [ALX Python Programming](https://github.com/LouisOlaoluwa/Python-Programming-Certificate-)
 - [ALX Professional Foundations](https://github.com/LouisOlaoluwa/Professional-Foundation-Certificate-)
-- 
+ 
 ## 🚀 What I Do
 
 - 📥 Data Collection (APIs, Databases, CSV, JSON)
