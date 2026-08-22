@@ -4,14 +4,14 @@
 
 I build end-to-end data solutions, from collecting raw data and designing data pipelines to transforming datasets, creating insightful dashboards, and enabling data-driven decision making. My GitHub showcases projects in data engineering, analytics, automation, and continuous learning.
 
-## 🎓 Certifications
+##  Certifications
 
 - [ALX Data Engineering](https)
 - [ALX Data Analysis](https://github.com/LouisOlaoluwa/Data-Analysis-Certificate)
 - [ALX Python Programming](https://github.com/LouisOlaoluwa/Python-Programming-Certificate-)
 - [ALX Professional Foundations](https://github.com/LouisOlaoluwa/Professional-Foundation-Certificate-)
  
-## 🚀 What I Do
+##  What I Do
 
 - 📥 Data Collection (APIs, Databases, CSV, JSON)
 - 🔄 ETL & Data Pipelines
@@ -20,7 +20,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 - 📊 Data Analysis & Visualization
 - 📈 Dashboard Development
  
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +34,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📂 Featured Projects
+##  Featured Projects
 
 - 📊 Data Analysis [Projects](https://github.com/LouisOlaoluwa/ACA-Marketplace-Premium-Analysis-2014-2016-)
 - ⚙️ ETL Pipelines [Projects](http)
@@ -44,13 +44,13 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 
 A full workflow [project](http)
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Apache Airflow
 - Apache Spark
 - Docker
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owolabilouis/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louisemersons@yahoo.com)
