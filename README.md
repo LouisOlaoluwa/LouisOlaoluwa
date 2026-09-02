@@ -36,13 +36,8 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 
 ##  Featured Projects
 
-- 📊 Data Analysis [Projects](https://github.com/LouisOlaoluwa/ACA-Marketplace-Premium-Analysis-2014-2016-)
-- ⚙️ ETL Pipelines [Projects](http)
-- 🗄️ SQL Challenges [Projects](https://github.com/LouisOlaoluwa/ACA-Marketplace-Premium-Analysis-2014-2016-)
-- 📈 Dashboards [Projects](http)
-- 🤖 Automation Scripts [Projects](http)
-
-Projects [project](https://github.com/LouisOlaoluwa/WHO-Global-Health-Statistics-1920-2020)
+WHO Global Health 1920-2019 [Project](https://github.com/LouisOlaoluwa/WHO-Global-Health-Statistics-1920-2020)
+ACA Markwtplace Insurance Analysis 2014-2016
 
 ##  Currently Learning
 
