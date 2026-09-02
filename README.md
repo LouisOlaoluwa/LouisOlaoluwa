@@ -42,7 +42,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 - 📈 Dashboards [Projects](http)
 - 🤖 Automation Scripts [Projects](http)
 
-A full workflow [project](http)
+A full workflow [project](https://github.com/LouisOlaoluwa/WHO-Global-Health-Statistics-1920-2020/blob/main/README.md)
 
 ##  Currently Learning
 
