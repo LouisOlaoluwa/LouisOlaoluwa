@@ -38,6 +38,7 @@ I build end-to-end data solutions, from collecting raw data and designing data p
 
 - WHO Global Health 1920-2019 [Project](https://github.com/LouisOlaoluwa/WHO-Global-Health-Statistics-1920-2020)
 - ACA Marketplace Insurance Analysis 2014-2016 [Project](https://github.com/LouisOlaoluwa/ACA-Marketplace-Premium-Analysis-2014-2016-)
+- Health Insurance Cross Sell Prediction Analysis [Project](https://github.com/LouisOlaoluwa/Health-Insurance-Cross-Sell-Analysis) 
 
 ##  Currently Learning
 
